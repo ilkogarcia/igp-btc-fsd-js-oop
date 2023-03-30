@@ -1,0 +1,1 @@
+coche1.acelerar();
